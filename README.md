@@ -12,7 +12,7 @@ Generates a html file and web page for the desired Gregorian calendar year
 Help on function CalMain in module CalendarModules.CalendarMain:
 
 CalMain(year='2000', filename='Calendar')
-    Creates html file and web page containing Gregirian calendar for specified
+    Creates html file and web page containing Gregorian calendar for specified
     year and for the year before and after the specified year. Example input: CalMain('2000', 'Year 2000 Calendar').
 
     year (string):  integer year above 1583.
